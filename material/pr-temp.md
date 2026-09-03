@@ -1,14 +1,7 @@
-<!--
-Copia todo el contenido de esta plantilla y pégalo en la pestaña Write de la
-descripción del PR. Está escrita en Markdown: sustituye las instrucciones por
-información concreta, marca las casillas terminadas y usa Preview antes de crear
-o fusionar el PR.
--->
-
 ## Tarea
 
-- Número y nombre:
-- Ruta del entregable:
+- Número y nombre: 750662 Lambda Remiel Heredia Pérez
+- Ruta del entregable: 
 
 ## Qué realicé
 
@@ -20,11 +13,11 @@ Indica los comandos, pruebas o revisión realizada.
 
 ## Checklist
 
-- [ ] Trabajé en la rama indicada y el PR apunta a `main`.
-- [ ] El entregable está en la carpeta solicitada.
-- [ ] Revisé todos los archivos en **Files changed**.
-- [ ] Mi rama y mis commits siguen las convenciones indicadas para esta tarea.
-- [ ] No incluí credenciales, datos privados, soluciones ajenas ni archivos accidentales.
-- [ ] Completé todos los requisitos particulares de la tarea.
-- [ ] Revisé mi trabajo contra la rúbrica antes de fusionar.
-- [ ] Después de esta revisión, fusionaré el PR y confirmaré que aparezca como **Merged** y cerrado antes de entregar en Canvas.
+- [x] Trabajé en la rama indicada y el PR apunta a `main`.
+- [x] El entregable está en la carpeta solicitada.
+- [x] Revisé todos los archivos en **Files changed**.
+- [x] Mi rama y mis commits siguen las convenciones indicadas para esta tarea.
+- [x] No incluí credenciales, datos privados, soluciones ajenas ni archivos accidentales.
+- [x] Completé todos los requisitos particulares de la tarea.
+- [x] Revisé mi trabajo contra la rúbrica antes de fusionar.
+- [x] Después de esta revisión, fusionaré el PR y confirmaré que aparezca como **Merged** y cerrado antes de entregar en Canvas.

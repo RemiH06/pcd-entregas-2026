@@ -1,5 +1,6 @@
 .python-version
 __pycache__
+material/pr-temp.md
 
 data/
 artifacts/nyc-taxi/modelo-duracion.pkl
