@@ -1,3 +1,7 @@
 .python-version
 __pycache__
 material/pr-temp.md
+
+data/
+artifacts/nyc-taxi/modelo-duracion.pkl
+actividades/clase-06-api-prediccion/eda.py
