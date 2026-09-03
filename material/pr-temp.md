@@ -1,7 +1,7 @@
 ## Tarea
 
 - Número y nombre: 750662 Lambda Remiel Heredia Pérez
-- Ruta del entregable: https://github.com/RemiH06/pcd-entregas-2026/tree/tareas/tareas/tarea-02-api-ambiente-uv
+- Ruta del entregable: 
 
 ## Qué realicé
 
