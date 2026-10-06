@@ -2,6 +2,7 @@
 __pycache__
 material/pr-temp.md
 
+.env
 data/
 artifacts/
 actividades/clase-06-api-prediccion/eda.py
