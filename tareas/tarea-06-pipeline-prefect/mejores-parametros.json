@@ -1,0 +1,31 @@
+{
+  "linear_regression": {
+    "params": {
+      "fit_intercept": false
+    },
+    "tuning_rmse": 5.0477,
+    "best_trial": 0,
+    "n_trials": 2
+  },
+  "random_forest": {
+    "params": {
+      "n_estimators": 50,
+      "max_depth": 16,
+      "min_samples_leaf": 5
+    },
+    "tuning_rmse": 4.343,
+    "best_trial": 2,
+    "n_trials": 8
+  },
+  "gradient_boosting": {
+    "params": {
+      "n_estimators": 200,
+      "learning_rate": 0.16627450896013515,
+      "max_depth": 4,
+      "min_samples_leaf": 3
+    },
+    "tuning_rmse": 4.2351,
+    "best_trial": 3,
+    "n_trials": 8
+  }
+}
