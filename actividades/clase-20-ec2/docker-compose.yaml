@@ -1,0 +1,26 @@
+name: clase-20-ec2
+
+services:
+  ui:
+    image: nyc-taxi-ui-image:v1
+    container_name: nyc-taxi-ui-container
+    build:
+      context: ./ui
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    network_mode: host
+    command: ["streamlit", "run", "streamlit_app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    depends_on:
+      - api
+
+  api:
+    image: nyc-taxi-api-image:v1
+    container_name: nyc-taxi-api-container
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    network_mode: host
+    command: ["uvicorn", "api:app", "--host", "127.0.0.1", "--port", "8000"]
